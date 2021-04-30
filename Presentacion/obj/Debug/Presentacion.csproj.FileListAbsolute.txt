@@ -1,0 +1,14 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\bin\Debug\Logica.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\bin\Debug\Logica.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.CasaCambio.resources
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.CrearArchivos.resources
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Presentacion\obj\Debug\Presentacion.pdb

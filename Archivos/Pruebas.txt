@@ -1,0 +1,9 @@
+Fecha: 04/30/2021
+Monto Inicial Bs: 7000
+Monto Inicial USD: 1000
+TCC: 6.86
+TCV: 6.97
+Compra 1000 $us --> 6860 Bs.
+Venta 2000 $us --> 13940 Bs.
+Compra 2000 $us --> 13720 Bs.
+Venta 1000 $us --> 6970 Bs.

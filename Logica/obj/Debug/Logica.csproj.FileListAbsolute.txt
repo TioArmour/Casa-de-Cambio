@@ -1,0 +1,6 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Logica\bin\Debug\Logica.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Logica\bin\Debug\Logica.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Logica\obj\Debug\Logica.dll
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\CasaDeCambio\Logica\obj\Debug\Logica.pdb
